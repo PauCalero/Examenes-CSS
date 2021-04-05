@@ -1,0 +1,309 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Fira+Code:700|Fira+Sans:700");
+.desktop-1 {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: 1518px;
+  width: 1440px;
+}
+.desktop-1 .ellipse-1 {
+  height: 199px;
+  left: 52px;
+  position: absolute;
+  top: 127px;
+  width: 189px;
+}
+.desktop-1 .estados-unidos-1 {
+  height: 45px;
+  left: 1332px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 270px;
+  transition: all 0.2s ease;
+  width: 45px;
+}
+.desktop-1 .estados-unidos-1:hover {
+  transform: translate(0, -5px);
+  box-shadow: 0px 12px 5px -8px rgba(0, 0, 0, 0.2);
+}
+.desktop-1 .experiencia-laboral {
+  letter-spacing: 0.6px;
+  line-height: 84px;
+  margin-right: 15px;
+  margin-top: 26px;
+  min-height: 153px;
+  width: 1239px;
+}
+.desktop-1 .fill-1 {
+  height: 224px;
+  left: 0px;
+  position: absolute;
+  top: 108px;
+  width: 1440px;
+}
+.desktop-1 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: -108px;
+  min-height: 786px;
+  width: 1440px;
+}
+.desktop-1 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 245px;
+  margin-right: 16px;
+  margin-top: 70px;
+  min-width: 1238px;
+}
+.desktop-1 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  margin-right: 17px;
+  margin-top: 51px;
+  min-width: 1237px;
+}
+.desktop-1 .flex-row-2 {
+  align-items: flex-end;
+  display: flex;
+  margin-right: 17px;
+  margin-top: 58px;
+  min-width: 1237px;
+}
+.desktop-1 .frame-1 {
+  height: 190px;
+  left: 354px;
+  position: absolute;
+  top: 131px;
+  width: 180px;
+}
+.desktop-1 .github-filled {
+  height: 63px;
+  left: 874px;
+  position: absolute;
+  top: 232px;
+  width: 68px;
+}
+.desktop-1 .i-am-a-uxui-web-des {
+  letter-spacing: 0.6px;
+  line-height: 84px;
+  min-height: 153px;
+  width: 495px;
+}
+.desktop-1 .i-am-a-uxui-web-des-1 {
+  letter-spacing: 0.6px;
+  line-height: 84px;
+  margin-right: 16px;
+  min-height: 333px;
+  width: 1244px;
+}
+.desktop-1 .idiomas {
+  letter-spacing: 0.6px;
+  line-height: 84px;
+  margin-left: 248px;
+  min-height: 245px;
+  width: 495px;
+}
+.desktop-1 .mail-outline {
+  height: 46px;
+  left: 874px;
+  position: absolute;
+  top: 163px;
+  width: 66px;
+}
+.desktop-1 .main-skills {
+  left: 0px;
+  letter-spacing: 0.94px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 380px;
+}
+.desktop-1 .main-skills-1 {
+  letter-spacing: 0.94px;
+  margin-left: 19px;
+  margin-top: 1px;
+  min-height: 42px;
+  text-align: center;
+  width: 200px;
+}
+.desktop-1 .main-skills-2 {
+  align-self: center;
+  letter-spacing: 0.94px;
+  margin-left: 17px;
+  margin-top: 0.33px;
+  min-height: 42px;
+  text-align: center;
+  width: 274px;
+}
+.desktop-1 .main-skills-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 0.67px;
+  min-width: 358px;
+}
+.desktop-1 .mi-careto-circular-1 {
+  height: 453px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 189px;
+}
+.desktop-1 .overlap-group {
+  height: 49px;
+  margin-left: 22px;
+  position: relative;
+  width: 1148px;
+}
+.desktop-1 .overlap-group1 {
+  height: 453px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.desktop-1 .overlap-group2 {
+  height: 453px;
+  position: relative;
+  width: 1440px;
+}
+.desktop-1 .pau-calero {
+  height: 25px;
+  left: 974px;
+  pointer-events: auto;
+  position: absolute;
+  top: 251px;
+  transition: all 0.2s ease;
+  width: 167px;
+}
+.desktop-1 .pau-calero-torrent {
+  height: 39px;
+  left: 271px;
+  position: absolute;
+  top: 182px;
+  width: 527px;
+}
+.desktop-1 .pau-calero:hover {
+  transform: scale(1.1);
+}
+.desktop-1 .pau4calerogmailcom {
+  height: 33px;
+  left: 969px;
+  pointer-events: auto;
+  position: absolute;
+  top: 168px;
+  transition: all 0.2s ease;
+  width: 375px;
+}
+.desktop-1 .pau4calerogmailcom:hover {
+  transform: scale(1.1);
+}
+.desktop-1 .perfil {
+  height: 27px;
+  left: 231px;
+  position: absolute;
+  top: 383px;
+  width: 110px;
+}
+.desktop-1 .rectangle-1 {
+  background-color: var(--honey-flower);
+  height: 7px;
+  left: 381px;
+  position: absolute;
+  top: 396px;
+  width: 949px;
+}
+.desktop-1 .rectangle-2 {
+  background-color: var(--honey-flower);
+  height: 7px;
+  margin-left: 7px;
+  margin-top: 8px;
+  width: 154px;
+}
+.desktop-1 .rectangle-2-1 {
+  background-color: var(--honey-flower);
+  height: 7px;
+  margin-left: 17px;
+  margin-top: 8px;
+  width: 189px;
+}
+.desktop-1 .rectangle-3 {
+  background-color: var(--honey-flower);
+  height: 7px;
+  left: 378px;
+  position: absolute;
+  top: 14px;
+  width: 770px;
+}
+.desktop-1 .shape {
+  height: 75px;
+  left: 93px;
+  position: absolute;
+  top: 362px;
+  width: 75px;
+}
+.desktop-1 .shape-1 {
+  height: 81px;
+  margin-left: 223px;
+  width: 69px;
+}
+.desktop-1 .skills {
+  height: 66px;
+  margin-top: -0.16px;
+  width: 67px;
+}
+.desktop-1 .suit-case {
+  height: 56px;
+  width: 67px;
+}
+.desktop-1 .tecnico-informt-diseador-grfico {
+  height: 73px;
+  left: 338px;
+  position: absolute;
+  top: 228px;
+  width: 393px;
+}
+.desktop-1 .x3253480-catalon-n-flag106770-1 {
+  height: 46px;
+  left: 1386px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 270px;
+  transition: all 0.2s ease;
+  width: 47px;
+}
+.desktop-1 .x3253480-catalon-n-flag106770-1:hover {
+  transform: translate(0, -5px);
+  box-shadow: 0px 12px 5px -8px rgba(0, 0, 0, 0.2);
+}
+* {
+  box-sizing: border-box;
+}
+.firacode-bold-heavy-metal-24px {
+  color: var(--heavy-metal);
+  font-family: "Fira Code", Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.firasans-bold-honey-flower-36px {
+  color: var(--honey-flower);
+  font-family: "Fira Sans", Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}
+:root {
+  --heavy-metal: rgba(44, 44, 44, 1);
+  --honey-flower: rgba(80, 14, 104, 1);
+}
+a {
+  text-decoration: none;
+  display: contents;
+}
